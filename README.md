@@ -119,7 +119,7 @@ docs/                    документация и скриншоты
 
 ## Автор и лицензия
 
-**[xOstWinDx](https://github.com/xOstWinDx) — Старобогатов Алексей Игоревич**  
+**[xOstWinDx](https://github.com/xOstWinDx)**  
 Контакт: [starobogatov.a@yandex.ru](mailto:starobogatov.a@yandex.ru).
 
 Собственный код проекта распространяется по [MIT License](LICENSE). Эта лицензия **не распространяется на сторонние игровые изображения, товарные знаки и зависимости**. Подробности — в [уведомлениях о сторонних материалах](THIRD_PARTY_NOTICES.md) и [перечне ресурсов](docs/ASSETS.md).
