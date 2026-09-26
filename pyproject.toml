@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bdo-chest-studio"
+version = "0.2.0"
+description = "An unofficial, offline Black Desert Online chest simulator"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+authors = [{name = "xOstWinDx (Старобогатов Алексей Игоревич)", email = "starobogatov.a@yandex.ru"}]
+dependencies = ["PySide6==6.11.2"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: X11 Applications :: Qt",
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Games/Entertainment :: Simulation",
+]
+
+[project.urls]
+Homepage = "https://github.com/xOstWinDx/BDOChestStudio"
+Repository = "https://github.com/xOstWinDx/BDOChestStudio"
+Issues = "https://github.com/xOstWinDx/BDOChestStudio/issues"
+
+[project.optional-dependencies]
+build = ["pyinstaller==6.22.3", "nuitka>=2.8,<5"]
+dev = ["ruff==0.16.9"]
+
+[project.gui-scripts]
+bdo-chest-studio = "bdo_sim.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bdo_sim = ["assets/icons/*", "assets/locales/*.json", "assets/sounds/*.wav"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E9", "F"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/bdo_sim/catalog.py" = ["F401"]
+"src/bdo_sim/content/__init__.py" = ["F401"]

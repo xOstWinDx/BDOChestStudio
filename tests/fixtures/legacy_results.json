@@ -1,0 +1,1045 @@
+[
+  {
+    "chest_id": "butterfly_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "unstable_dark_hunger": 15,
+      "cron_chest_100": 12,
+      "cron_stone": 2550,
+      "cron_stone_150": 2,
+      "cron_stone_200": 4,
+      "full_outfit": 8,
+      "cron_stone_300": 2,
+      "cron_stone_250": 1,
+      "cron_bundle_1000": 1
+    },
+    "total_opened": 93,
+    "crowns": 14644
+  },
+  {
+    "chest_id": "butterfly_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_100": 6,
+      "unstable_dark_hunger": 55,
+      "cron_stone_100": 2,
+      "cron_stone_200": 6,
+      "cron_stone": 5650,
+      "advice_of_valks_170": 2,
+      "full_outfit": 4,
+      "cron_stone_250": 5,
+      "cron_bundle_1000": 1,
+      "cron_stone_300": 2,
+      "cron_stone_150": 1
+    },
+    "total_opened": 132,
+    "crowns": 14622
+  },
+  {
+    "chest_id": "butterfly_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_100": 14,
+      "unstable_dark_hunger": 35,
+      "cron_stone_100": 3,
+      "cron_stone_300": 5,
+      "cron_stone": 2000,
+      "cron_stone_250": 3,
+      "full_outfit": 1,
+      "advice_of_valks_170": 1,
+      "cron_stone_200": 3,
+      "cron_stone_150": 2
+    },
+    "total_opened": 104,
+    "crowns": 7843
+  },
+  {
+    "chest_id": "radiant_dream_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 15,
+      "advice_of_valks_170": 1,
+      "unstable_dark_hunger": 30,
+      "cron_stone_300": 6,
+      "cron_stone_250": 3,
+      "cron_stone": 10500,
+      "cron_stone_200": 6,
+      "advice_of_valks_200": 1,
+      "cron_stone_500": 1,
+      "cron_stone_400": 1
+    },
+    "total_opened": 79,
+    "crowns": 30045
+  },
+  {
+    "chest_id": "radiant_dream_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 23,
+      "cron_stone_300": 4,
+      "cron_stone": 3500,
+      "advice_of_valks_170": 2,
+      "cron_stone_250": 5,
+      "cron_stone_500": 2,
+      "cron_stone_200": 5,
+      "advice_of_valks_200": 1,
+      "cron_stone_400": 3
+    },
+    "total_opened": 87,
+    "crowns": 31989
+  },
+  {
+    "chest_id": "radiant_dream_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 13,
+      "cron_stone": 5500,
+      "cron_stone_300": 11,
+      "unstable_dark_hunger": 30,
+      "advice_of_valks_200": 1,
+      "cron_stone_250": 3,
+      "cron_stone_500": 1,
+      "cron_stone_400": 2,
+      "cron_stone_200": 1
+    },
+    "total_opened": 80,
+    "crowns": 23959
+  },
+  {
+    "chest_id": "brilliant_dream_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_250": 4,
+      "cron_stone_200": 8,
+      "cron_stone": 3900,
+      "cron_stone_150": 3,
+      "full_outfit": 7,
+      "cron_stone_300": 3,
+      "cron_stone_500": 1,
+      "artisans_memory": 60,
+      "cron_stone_400": 1
+    },
+    "total_opened": 82,
+    "crowns": 15701
+  },
+  {
+    "chest_id": "brilliant_dream_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_100": 1,
+      "cron_stone_150": 2,
+      "cron_stone_300": 4,
+      "cron_stone_250": 6,
+      "artisans_memory": 90,
+      "cron_stone": 2800,
+      "cron_stone_200": 5,
+      "full_outfit": 5,
+      "cron_stone_400": 4,
+      "advice_of_valks_150": 1,
+      "unstable_dark_hunger": 30,
+      "cron_stone_500": 1
+    },
+    "total_opened": 90,
+    "crowns": 13965
+  },
+  {
+    "chest_id": "brilliant_dream_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone": 2400,
+      "cron_stone_200": 7,
+      "cron_bundle_1000": 1,
+      "cron_stone_100": 5,
+      "artisans_memory": 30,
+      "full_outfit": 12,
+      "cron_stone_250": 3,
+      "cron_stone_300": 5,
+      "cron_stone_150": 2,
+      "cron_stone_400": 1
+    },
+    "total_opened": 77,
+    "crowns": 20166
+  },
+  {
+    "chest_id": "glimmering_dream_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_100": 11,
+      "unstable_dark_hunger": 20,
+      "cron_stone_200": 4,
+      "cron_stone_100": 3,
+      "cron_stone_150": 1,
+      "cron_stone_250": 3,
+      "cron_stone_300": 1,
+      "advice_of_valks_170": 1,
+      "cron_stone_400": 1,
+      "full_outfit": 1,
+      "cron_stone": 500
+    },
+    "total_opened": 65,
+    "crowns": 5293
+  },
+  {
+    "chest_id": "glimmering_dream_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_100": 9,
+      "unstable_dark_hunger": 50,
+      "cron_stone_150": 3,
+      "cron_bundle_1000": 1,
+      "cron_stone_200": 3,
+      "cron_stone": 400,
+      "cron_stone_250": 3,
+      "advice_of_valks_170": 1,
+      "full_outfit": 1,
+      "cron_stone_300": 2
+    },
+    "total_opened": 70,
+    "crowns": 5693
+  },
+  {
+    "chest_id": "glimmering_dream_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_100": 18,
+      "unstable_dark_hunger": 25,
+      "cron_stone_200": 4,
+      "cron_stone": 500,
+      "cron_stone_400": 1,
+      "cron_stone_150": 1,
+      "cron_stone_100": 1
+    },
+    "total_opened": 51,
+    "crowns": 3750
+  },
+  {
+    "chest_id": "limit_break_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone": 36000,
+      "full_outfit": 114
+    },
+    "total_opened": 30,
+    "crowns": 149202
+  },
+  {
+    "chest_id": "limit_break_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 66,
+      "cron_stone": 61000
+    },
+    "total_opened": 30,
+    "crowns": 126538
+  },
+  {
+    "chest_id": "limit_break_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone": 38500,
+      "full_outfit": 85
+    },
+    "total_opened": 30,
+    "crowns": 122905
+  },
+  {
+    "chest_id": "premium_enhancement_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "unstable_dark_hunger": 350,
+      "full_outfit": 67,
+      "cron_stone": 6000
+    },
+    "total_opened": 30,
+    "crowns": 72531
+  },
+  {
+    "chest_id": "premium_enhancement_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 39,
+      "cron_stone": 12000,
+      "unstable_dark_hunger": 210
+    },
+    "total_opened": 30,
+    "crowns": 50727
+  },
+  {
+    "chest_id": "premium_enhancement_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "unstable_dark_hunger": 40,
+      "full_outfit": 62,
+      "cron_stone": 7500
+    },
+    "total_opened": 30,
+    "crowns": 69066
+  },
+  {
+    "chest_id": "sweet_enhancement_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 23,
+      "cron_stone": 5000,
+      "advice_of_valks_170": 4,
+      "advice_of_valks_200": 4
+    },
+    "total_opened": 30,
+    "crowns": 27839
+  },
+  {
+    "chest_id": "sweet_enhancement_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone": 4000,
+      "full_outfit": 16,
+      "advice_of_valks_170": 8,
+      "advice_of_valks_200": 1
+    },
+    "total_opened": 30,
+    "crowns": 19888
+  },
+  {
+    "chest_id": "sweet_enhancement_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "full_outfit": 15,
+      "cron_stone": 5500,
+      "unstable_dark_hunger": 30,
+      "advice_of_valks_170": 4
+    },
+    "total_opened": 30,
+    "crowns": 20395
+  },
+  {
+    "chest_id": "rare_cron_bundle",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_400": 3,
+      "cron_stone_300": 16,
+      "cron_stone_200": 10,
+      "cron_stone_250": 5,
+      "cron_stone_500": 5,
+      "cron_bundle_2000": 1
+    },
+    "total_opened": 50,
+    "crowns": 13750
+  },
+  {
+    "chest_id": "rare_cron_bundle",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_250": 8,
+      "cron_stone_300": 17,
+      "cron_stone_200": 11,
+      "cron_stone_400": 6,
+      "cron_bundle_1000": 1,
+      "cron_stone_500": 1
+    },
+    "total_opened": 58,
+    "crowns": 13200
+  },
+  {
+    "chest_id": "rare_cron_bundle",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_400": 1,
+      "cron_stone_250": 7,
+      "cron_stone_300": 20,
+      "cron_stone_200": 6,
+      "cron_stone_500": 2
+    },
+    "total_opened": 42,
+    "crowns": 10350
+  },
+  {
+    "chest_id": "mysterious_treasure_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "artisans_memory": 120,
+      "cron_stone": 8900,
+      "unstable_dark_hunger": 100,
+      "cron_bundle_2000": 1
+    },
+    "total_opened": 48,
+    "crowns": 10900
+  },
+  {
+    "chest_id": "mysterious_treasure_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone": 10350,
+      "artisans_memory": 210,
+      "cron_bundle_1000": 1
+    },
+    "total_opened": 52,
+    "crowns": 11350
+  },
+  {
+    "chest_id": "mysterious_treasure_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "artisans_memory": 30,
+      "cron_stone": 9300,
+      "cron_bundle_1000": 2
+    },
+    "total_opened": 42,
+    "crowns": 11300
+  },
+  {
+    "chest_id": "valuable_cron_bundle",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_100": 6,
+      "cron_stone_250": 7,
+      "cron_stone_200": 10,
+      "cron_stone_150": 3,
+      "cron_stone_400": 5,
+      "cron_bundle_2000": 1
+    },
+    "total_opened": 37,
+    "crowns": 8800
+  },
+  {
+    "chest_id": "valuable_cron_bundle",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_150": 6,
+      "cron_stone_100": 8,
+      "cron_stone_200": 12,
+      "cron_stone_250": 6,
+      "cron_stone_300": 1
+    },
+    "total_opened": 39,
+    "crowns": 5900
+  },
+  {
+    "chest_id": "valuable_cron_bundle",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_150": 9,
+      "cron_stone_200": 10,
+      "cron_stone_500": 2,
+      "cron_stone_250": 3,
+      "cron_stone_100": 7
+    },
+    "total_opened": 38,
+    "crowns": 5800
+  },
+  {
+    "chest_id": "golden_treasure_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "advice_of_valks_200": 3,
+      "support_box_iv": 8,
+      "cron_chest_200": 13,
+      "unstable_dark_hunger": 61,
+      "advice_of_valks_130": 1,
+      "artisans_memory": 69,
+      "support_box_v": 7,
+      "outfit_selection_box": 5,
+      "advice_of_valks_150": 3,
+      "combat_skill_exp_scroll": 12,
+      "full_outfit": 9,
+      "giovan_grolin_scroll": 11,
+      "cron_stone": 6850,
+      "cron_stone_12": 2,
+      "item_collection_scroll": 12,
+      "cron_stone_200": 12,
+      "cron_stone_6": 9,
+      "cron_stone_150": 5,
+      "caphras_stone_2": 14,
+      "old_moon_special_spell": 2,
+      "caphras_stone_4": 5,
+      "cron_stone_50": 1,
+      "cron_stone_9": 4,
+      "cron_stone_100": 3,
+      "cron_stone_3": 9,
+      "cron_stone_250": 5,
+      "old_moon_fortune": 5,
+      "cron_stone_75": 3,
+      "caphras_stone_10": 1,
+      "token_of_fate": 2,
+      "cron_stone_400": 1,
+      "cron_stone_15": 1,
+      "caphras_stone_6": 1
+    },
+    "total_opened": 222,
+    "crowns": 28883
+  },
+  {
+    "chest_id": "golden_treasure_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_200": 15,
+      "unstable_dark_hunger": 39,
+      "support_box_iv": 8,
+      "artisans_memory": 120,
+      "advice_of_valks_130": 4,
+      "advice_of_valks_200": 4,
+      "advice_of_valks_150": 1,
+      "support_box_v": 6,
+      "item_collection_scroll": 28,
+      "cron_stone": 8650,
+      "caphras_stone_4": 8,
+      "cron_stone_6": 7,
+      "cron_stone_75": 2,
+      "cron_stone_3": 12,
+      "old_moon_fortune": 3,
+      "cron_stone_150": 12,
+      "cron_stone_9": 6,
+      "combat_skill_exp_scroll": 11,
+      "caphras_stone_6": 5,
+      "giovan_grolin_scroll": 11,
+      "caphras_stone_10": 2,
+      "token_of_fate": 2,
+      "cron_stone_100": 5,
+      "caphras_stone_8": 5,
+      "full_outfit": 4,
+      "cron_stone_12": 3,
+      "advice_of_valks_170": 2,
+      "cron_stone_200": 10,
+      "caphras_stone_2": 4,
+      "cron_stone_250": 2,
+      "cron_stone_300": 2
+    },
+    "total_opened": 247,
+    "crowns": 21340
+  },
+  {
+    "chest_id": "golden_treasure_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "artisans_memory": 90,
+      "cron_chest_200": 24,
+      "unstable_dark_hunger": 55,
+      "support_box_v": 6,
+      "support_box_iv": 7,
+      "advice_of_valks_130": 1,
+      "giovan_grolin_scroll": 12,
+      "cron_stone_250": 2,
+      "cron_stone": 10300,
+      "caphras_stone_2": 12,
+      "cron_stone_3": 14,
+      "old_moon_special_spell": 1,
+      "old_moon_fortune": 7,
+      "cron_stone_50": 2,
+      "cron_stone_150": 12,
+      "caphras_stone_8": 3,
+      "cron_stone_200": 10,
+      "item_collection_scroll": 32,
+      "advice_of_valks_150": 6,
+      "cron_stone_12": 2,
+      "caphras_stone_4": 6,
+      "cron_stone_6": 10,
+      "full_outfit": 10,
+      "cron_stone_75": 3,
+      "cron_stone_100": 3,
+      "cron_stone_9": 3,
+      "combat_skill_exp_scroll": 9,
+      "caphras_stone_10": 3,
+      "token_of_fate": 7,
+      "cron_bundle_2000": 1,
+      "caphras_stone_6": 3,
+      "cron_bundle_1000": 1,
+      "advice_of_valks_170": 2,
+      "cron_stone_15": 4,
+      "advice_of_valks_200": 1
+    },
+    "total_opened": 280,
+    "crowns": 33168
+  },
+  {
+    "chest_id": "shining_treasure_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "outfit_selection_box": 90,
+      "full_outfit": 116,
+      "cron_stone": 9500,
+      "unstable_dark_hunger": 140
+    },
+    "total_opened": 78,
+    "crowns": 214058
+  },
+  {
+    "chest_id": "shining_treasure_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "outfit_selection_box": 88,
+      "full_outfit": 43,
+      "cron_stone": 24500
+    },
+    "total_opened": 45,
+    "crowns": 154583
+  },
+  {
+    "chest_id": "shining_treasure_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "outfit_selection_box": 92,
+      "full_outfit": 42,
+      "cron_stone": 18000
+    },
+    "total_opened": 45,
+    "crowns": 151062
+  },
+  {
+    "chest_id": "golden_treasure_bundle",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "support_box_v": 6,
+      "support_box_iv": 11,
+      "artisans_memory": 177,
+      "unstable_dark_hunger": 87,
+      "advice_of_valks_200": 4,
+      "advice_of_valks_150": 1,
+      "giovan_grolin_scroll": 8,
+      "cron_stone_150": 9,
+      "full_outfit": 8,
+      "cron_stone_12": 1,
+      "combat_skill_exp_scroll": 13,
+      "cron_stone_100": 7,
+      "caphras_stone_2": 8,
+      "cron_stone_6": 6,
+      "item_collection_scroll": 20,
+      "cron_stone": 6450,
+      "cron_stone_9": 3,
+      "cron_stone_200": 11,
+      "caphras_stone_4": 4,
+      "cron_stone_3": 15,
+      "old_moon_special_spell": 2,
+      "caphras_stone_6": 4,
+      "cron_stone_250": 3,
+      "advice_of_valks_170": 4,
+      "caphras_stone_8": 1,
+      "old_moon_fortune": 3,
+      "caphras_stone_10": 1,
+      "token_of_fate": 1,
+      "cron_stone_300": 1,
+      "cron_chest_200": 5,
+      "advice_of_valks_130": 1
+    },
+    "total_opened": 196,
+    "crowns": 20814
+  },
+  {
+    "chest_id": "golden_treasure_bundle",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "artisans_memory": 279,
+      "advice_of_valks_150": 5,
+      "support_box_iv": 11,
+      "support_box_v": 4,
+      "unstable_dark_hunger": 31,
+      "combat_skill_exp_scroll": 10,
+      "cron_stone_200": 11,
+      "cron_stone": 8300,
+      "full_outfit": 44,
+      "cron_stone_9": 4,
+      "item_collection_scroll": 34,
+      "caphras_stone_4": 5,
+      "giovan_grolin_scroll": 7,
+      "caphras_stone_8": 2,
+      "cron_stone_6": 8,
+      "cron_stone_250": 8,
+      "cron_stone_15": 2,
+      "token_of_fate": 3,
+      "cron_stone_300": 4,
+      "advice_of_valks_170": 3,
+      "old_moon_fortune": 3,
+      "caphras_stone_2": 5,
+      "cron_stone_3": 11,
+      "cron_stone_100": 3,
+      "cron_stone_150": 13,
+      "cron_stone_12": 1,
+      "caphras_stone_6": 3,
+      "caphras_stone_10": 1,
+      "cron_chest_200": 7,
+      "advice_of_valks_130": 1,
+      "cron_stone_500": 2,
+      "cron_bundle_1000": 1,
+      "cron_stone_50": 1,
+      "old_moon_special_spell": 2,
+      "cron_bundle_2000": 1
+    },
+    "total_opened": 245,
+    "crowns": 65251
+  },
+  {
+    "chest_id": "golden_treasure_bundle",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "unstable_dark_hunger": 62,
+      "artisans_memory": 216,
+      "support_box_v": 5,
+      "support_box_iv": 7,
+      "advice_of_valks_150": 1,
+      "combat_skill_exp_scroll": 10,
+      "cron_bundle_2000": 1,
+      "cron_stone": 7050,
+      "cron_stone_6": 8,
+      "old_moon_fortune": 7,
+      "cron_stone_200": 19,
+      "cron_stone_3": 11,
+      "cron_stone_250": 4,
+      "item_collection_scroll": 28,
+      "caphras_stone_2": 8,
+      "giovan_grolin_scroll": 7,
+      "cron_stone_100": 6,
+      "advice_of_valks_170": 2,
+      "cron_stone_300": 2,
+      "cron_stone_9": 3,
+      "caphras_stone_4": 4,
+      "caphras_stone_6": 2,
+      "cron_stone_12": 2,
+      "full_outfit": 9,
+      "cron_stone_150": 9,
+      "cron_stone_15": 2,
+      "token_of_fate": 2,
+      "caphras_stone_8": 1,
+      "cron_chest_200": 3,
+      "advice_of_valks_200": 3,
+      "cron_stone_75": 1,
+      "old_moon_special_spell": 1
+    },
+    "total_opened": 210,
+    "crowns": 26174
+  },
+  {
+    "chest_id": "silver_treasure_bundle",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_200": 33,
+      "unstable_dark_hunger": 28,
+      "artisans_memory": 117,
+      "advice_of_valks_170": 2,
+      "support_box_v": 3,
+      "support_box_iv": 5,
+      "advice_of_valks_130": 1,
+      "giovan_grolin_scroll": 9,
+      "cron_stone": 5050,
+      "cron_stone_3": 11,
+      "item_collection_scroll": 16,
+      "cron_bundle_2000": 1,
+      "caphras_stone_8": 1,
+      "combat_skill_exp_scroll": 13,
+      "caphras_stone_2": 11,
+      "caphras_stone_4": 4,
+      "cron_stone_50": 5,
+      "cron_stone_9": 6,
+      "caphras_stone_6": 2,
+      "cron_stone_6": 7,
+      "old_moon_special_spell": 3,
+      "old_moon_fortune": 6,
+      "cron_stone_150": 5,
+      "cron_stone_15": 1,
+      "token_of_fate": 3,
+      "cron_stone_75": 2,
+      "caphras_stone_10": 2,
+      "advice_of_valks_150": 1,
+      "cron_stone_12": 1,
+      "outfit_selection_box": 4,
+      "cron_stone_200": 1,
+      "cron_stone_100": 2,
+      "full_outfit": 2,
+      "advice_of_valks_200": 1,
+      "cron_stone_300": 1,
+      "cron_stone_250": 1
+    },
+    "total_opened": 169,
+    "crowns": 21864
+  },
+  {
+    "chest_id": "silver_treasure_bundle",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_200": 31,
+      "artisans_memory": 168,
+      "advice_of_valks_130": 4,
+      "unstable_dark_hunger": 15,
+      "support_box_v": 2,
+      "advice_of_valks_200": 1,
+      "support_box_iv": 6,
+      "combat_skill_exp_scroll": 6,
+      "cron_stone_75": 9,
+      "cron_stone": 6650,
+      "cron_stone_9": 5,
+      "item_collection_scroll": 20,
+      "cron_stone_50": 2,
+      "caphras_stone_2": 4,
+      "caphras_stone_4": 2,
+      "cron_stone_6": 13,
+      "giovan_grolin_scroll": 9,
+      "cron_stone_150": 6,
+      "caphras_stone_8": 4,
+      "old_moon_fortune": 7,
+      "cron_stone_3": 6,
+      "old_moon_special_spell": 1,
+      "caphras_stone_6": 4,
+      "cron_stone_100": 3,
+      "advice_of_valks_150": 1,
+      "full_outfit": 1,
+      "cron_stone_200": 2,
+      "advice_of_valks_170": 1
+    },
+    "total_opened": 170,
+    "crowns": 16359
+  },
+  {
+    "chest_id": "silver_treasure_bundle",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_chest_200": 30,
+      "support_box_iv": 9,
+      "artisans_memory": 237,
+      "support_box_v": 5,
+      "unstable_dark_hunger": 27,
+      "advice_of_valks_170": 1,
+      "advice_of_valks_130": 1,
+      "combat_skill_exp_scroll": 13,
+      "cron_bundle_2000": 1,
+      "cron_stone_3": 14,
+      "item_collection_scroll": 26,
+      "old_moon_fortune": 4,
+      "caphras_stone_2": 7,
+      "cron_stone_12": 3,
+      "cron_stone_150": 6,
+      "cron_stone_75": 2,
+      "giovan_grolin_scroll": 9,
+      "cron_stone_50": 3,
+      "cron_stone": 4800,
+      "caphras_stone_10": 2,
+      "token_of_fate": 3,
+      "caphras_stone_6": 5,
+      "caphras_stone_4": 5,
+      "cron_stone_15": 1,
+      "cron_stone_6": 4,
+      "cron_stone_100": 3,
+      "cron_stone_250": 5,
+      "cron_stone_9": 3,
+      "advice_of_valks_150": 1,
+      "full_outfit": 2,
+      "cron_stone_200": 1,
+      "caphras_stone_8": 1
+    },
+    "total_opened": 180,
+    "crowns": 17880
+  },
+  {
+    "chest_id": "valuable_scroll_chest",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "old_moon_fortune": 2,
+      "combat_skill_exp_scroll": 9,
+      "item_collection_scroll": 12,
+      "giovan_grolin_scroll": 8,
+      "old_moon_special_spell": 5
+    },
+    "total_opened": 30,
+    "crowns": 0
+  },
+  {
+    "chest_id": "valuable_scroll_chest",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "giovan_grolin_scroll": 6,
+      "combat_skill_exp_scroll": 6,
+      "item_collection_scroll": 28,
+      "old_moon_fortune": 4
+    },
+    "total_opened": 30,
+    "crowns": 0
+  },
+  {
+    "chest_id": "valuable_scroll_chest",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "old_moon_fortune": 1,
+      "giovan_grolin_scroll": 9,
+      "combat_skill_exp_scroll": 8,
+      "item_collection_scroll": 22,
+      "old_moon_special_spell": 1
+    },
+    "total_opened": 30,
+    "crowns": 0
+  },
+  {
+    "chest_id": "eternal_truth",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "caphras_stone_4": 9,
+      "caphras_stone_2": 11,
+      "caphras_stone_8": 1,
+      "caphras_stone_6": 6,
+      "caphras_stone_10": 3,
+      "token_of_fate": 3
+    },
+    "total_opened": 30,
+    "crowns": 0
+  },
+  {
+    "chest_id": "eternal_truth",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "caphras_stone_2": 12,
+      "caphras_stone_8": 4,
+      "caphras_stone_10": 4,
+      "token_of_fate": 4,
+      "caphras_stone_4": 5,
+      "caphras_stone_6": 5
+    },
+    "total_opened": 30,
+    "crowns": 0
+  },
+  {
+    "chest_id": "eternal_truth",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "caphras_stone_4": 6,
+      "caphras_stone_2": 19,
+      "caphras_stone_8": 2,
+      "caphras_stone_6": 2,
+      "caphras_stone_10": 1,
+      "token_of_fate": 1
+    },
+    "total_opened": 30,
+    "crowns": 0
+  },
+  {
+    "chest_id": "cautionary_advice",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_6": 8,
+      "cron_stone_3": 14,
+      "cron_stone_9": 6,
+      "cron_stone_15": 1,
+      "token_of_fate": 1,
+      "cron_stone_12": 1
+    },
+    "total_opened": 30,
+    "crowns": 171
+  },
+  {
+    "chest_id": "cautionary_advice",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_3": 14,
+      "cron_stone_6": 9,
+      "cron_stone_15": 3,
+      "token_of_fate": 3,
+      "cron_stone_12": 1,
+      "cron_stone_9": 3
+    },
+    "total_opened": 30,
+    "crowns": 180
+  },
+  {
+    "chest_id": "cautionary_advice",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_6": 7,
+      "cron_stone_3": 20,
+      "cron_stone_9": 2,
+      "cron_stone_15": 1,
+      "token_of_fate": 1
+    },
+    "total_opened": 30,
+    "crowns": 135
+  },
+  {
+    "chest_id": "mysterious_cron_bundle",
+    "seed": 1,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_150": 5,
+      "cron_stone_50": 8,
+      "cron_stone_100": 7,
+      "cron_stone_75": 5,
+      "cron_stone_300": 3,
+      "cron_bundle_2000": 1,
+      "cron_stone_200": 1
+    },
+    "total_opened": 30,
+    "crowns": 5325
+  },
+  {
+    "chest_id": "mysterious_cron_bundle",
+    "seed": 19,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_75": 9,
+      "cron_stone_50": 3,
+      "cron_stone_100": 12,
+      "cron_stone_150": 5,
+      "cron_stone_200": 1
+    },
+    "total_opened": 30,
+    "crowns": 2975
+  },
+  {
+    "chest_id": "mysterious_cron_bundle",
+    "seed": 888,
+    "quantity": 30,
+    "inventory": {
+      "cron_stone_200": 1,
+      "cron_stone_75": 9,
+      "cron_stone_50": 8,
+      "cron_stone_100": 10,
+      "cron_stone_500": 1,
+      "cron_stone_150": 1
+    },
+    "total_opened": 30,
+    "crowns": 2925
+  }
+]
