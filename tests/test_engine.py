@@ -37,7 +37,7 @@ class EngineTests(unittest.TestCase):
         self.assertEqual((report.status, report.total_opened, report.pending), ("limited", 50, 51))
 
     def test_valks_are_terminal_items_without_queue_steps(self):
-        self.assertEqual(sum(isinstance(item, Chest) for item in self.catalog.values()), 18)
+        self.assertEqual(sum(isinstance(item, Chest) for item in self.catalog.values()), 34)
         gold = next(item for item in self.catalog.values() if item.name == "Золотой сверток с сокровищами")
 
         class AlwaysDrop:
@@ -59,7 +59,7 @@ class EngineTests(unittest.TestCase):
 
         self.assertIsInstance(self.catalog[ButterflyChest.id], ButterflyChest)
         self.assertIs(ButterflyChest.loot_table()[0].item, RadiantDreamChest)
-        self.assertEqual(len({type(item) for item in self.catalog.values()}), 60)
+        self.assertEqual(len({type(item) for item in self.catalog.values()}), 94)
 
     def test_bonus_rewards_are_independent(self):
         chest = BonusChest(

@@ -92,6 +92,6 @@ class DefinitionTests(unittest.TestCase):
 
     def test_all_entities_use_unique_english_ids(self):
         catalog = load_catalog()
-        self.assertEqual(len(catalog), 60)
+        self.assertEqual(len(catalog), 94)
         for key in catalog:
             self.assertRegex(key, r"^[a-z][a-z0-9]*(?:_[a-z0-9]+)*$")

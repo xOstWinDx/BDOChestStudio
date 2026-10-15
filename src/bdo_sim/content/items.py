@@ -385,3 +385,165 @@ class CronStone15(AbstractItem):
     icon = CRON_STONE_ICON
     rarity = "uncommon"
     crown_value = 15
+
+
+class BlacksmithSpiritSeal(AbstractItem):
+    id = "blacksmith_spirit_seal"
+    name = "Печать с духом кузнеца"
+    name_en = "Blacksmith Spirit Seal"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = None
+
+
+class MemoryFragment(AbstractItem):
+    id = "memory_fragment"
+    name = "Обрывки воспоминаний"
+    name_en = "Memory Fragment"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = None
+
+
+class SharpBlackCrystalShard(AbstractItem):
+    id = "sharp_black_crystal_shard"
+    name = "Заостренный фрагмент черного кристалла"
+    name_en = "Sharp Black Crystal Shard"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = None
+
+
+class EnhancementSupportSelectionChest(AbstractItem):
+    id = "enhancement_support_selection_chest"
+    name = "Комплексный сундук поддержки усиления на выбор"
+    name_en = "Comprehensive Enhancement Support Selection Chest"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = None
+
+
+class ValksAdvice200Chest(AbstractItem):
+    id = "valks_advice_200_chest"
+    name = "Сундук с Советом Валкса (+200)"
+    name_en = "Advice of Valks (+200) Chest"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = None
+
+
+class FullOutfitBox70(AbstractItem):
+    id = "full_outfit_box_70"
+    name = "[Ивент] Сундук с полным комплектом (70 шт.)"
+    name_en = "[Event] Full Outfit Box (70 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 69510
+
+
+class FullOutfitBox40(AbstractItem):
+    id = "full_outfit_box_40"
+    name = "[Ивент] Сундук с полным комплектом (40 шт.)"
+    name_en = "[Event] Full Outfit Box (40 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 39720
+
+
+class FullOutfitBox30(AbstractItem):
+    id = "full_outfit_box_30"
+    name = "[Ивент] Сундук с полным комплектом (30 шт.)"
+    name_en = "[Event] Full Outfit Box (30 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 29790
+
+
+class FullOutfitBox20(AbstractItem):
+    id = "full_outfit_box_20"
+    name = "[Ивент] Сундук с полным комплектом (20 шт.)"
+    name_en = "[Event] Full Outfit Box (20 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 19860
+
+
+class FullOutfitBox15(AbstractItem):
+    id = "full_outfit_box_15"
+    name = "[Ивент] Сундук с полным комплектом (15 шт.)"
+    name_en = "[Event] Full Outfit Box (15 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 14895
+
+
+class FullOutfitBox10(AbstractItem):
+    id = "full_outfit_box_10"
+    name = "[Ивент] Сундук с полным комплектом (10 шт.)"
+    name_en = "[Event] Full Outfit Box (10 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 9930
+
+
+class FullOutfitBox7(AbstractItem):
+    id = "full_outfit_box_7"
+    name = "[Ивент] Сундук с полным комплектом (7 шт.)"
+    name_en = "[Event] Full Outfit Box (7 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 6951
+
+
+class CronBundle4500(AbstractItem):
+    id = "cron_bundle_4500"
+    name = "Сверток с Камнями Крон (4500 шт.)"
+    name_en = "Cron Stone Bundle (4500 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 4500
+
+
+class CronBundle3500(AbstractItem):
+    id = "cron_bundle_3500"
+    name = "Сверток с Камнями Крон (3500 шт.)"
+    name_en = "Cron Stone Bundle (3500 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 3500
+
+
+class CronBundle2500(AbstractItem):
+    id = "cron_bundle_2500"
+    name = "Сверток с Камнями Крон (2500 шт.)"
+    name_en = "Cron Stone Bundle (2500 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 2500
+
+
+class CronBundle1500(AbstractItem):
+    id = "cron_bundle_1500"
+    name = "Сверток с Камнями Крон (1500 шт.)"
+    name_en = "Cron Stone Bundle (1500 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 1500
+
+
+class CronStone6500(AbstractItem):
+    id = "cron_stone_6500"
+    name = "Камень Крон (6500 шт.)"
+    name_en = "Cron Stone (6500 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 6500
+
+
+class CronStone5500(AbstractItem):
+    id = "cron_stone_5500"
+    name = "Камень Крон (5500 шт.)"
+    name_en = "Cron Stone (5500 pcs)"
+    icon = "icons/chest.svg"
+    rarity = "common"
+    crown_value = 5500
